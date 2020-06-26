@@ -1,0 +1,4 @@
+(sym_lib_table
+  (lib (name PCBV1-rescue)(type Legacy)(uri ${KIPRJMOD}/PCBV1-rescue.lib)(options "")(descr ""))
+  (lib (name PCBV2-rescue)(type Legacy)(uri ${KIPRJMOD}/PCBV2-rescue.lib)(options "")(descr ""))
+)
