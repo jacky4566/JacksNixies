@@ -1,0 +1,115 @@
+EESchema Schematic File Version 2
+LIBS:power
+LIBS:device
+LIBS:transistors
+LIBS:conn
+LIBS:linear
+LIBS:regul
+LIBS:74xx
+LIBS:cmos4000
+LIBS:adc-dac
+LIBS:memory
+LIBS:xilinx
+LIBS:microcontrollers
+LIBS:dsp
+LIBS:microchip
+LIBS:analog_switches
+LIBS:motorola
+LIBS:texas
+LIBS:intel
+LIBS:audio
+LIBS:interface
+LIBS:digital-audio
+LIBS:philips
+LIBS:display
+LIBS:cypress
+LIBS:siliconi
+LIBS:opto
+LIBS:atmel
+LIBS:contrib
+LIBS:valves
+LIBS:Custom_Parts
+LIBS:Nixie_IN8_Breakout-cache
+EELAYER 25 0
+EELAYER END
+$Descr USLetter 11000 8500
+encoding utf-8
+Sheet 1 1
+Title ""
+Date ""
+Rev ""
+Comp ""
+Comment1 ""
+Comment2 ""
+Comment3 ""
+Comment4 ""
+$EndDescr
+$Comp
+L IN-8 T1
+U 1 1 590F8FF1
+P 4850 4200
+F 0 "T1" H 5100 4200 60  0000 C CNN
+F 1 "IN-8" H 4600 4200 60  0000 C CNN
+F 2 "Custom Parts:IN-8" H 4850 4150 60  0001 C CNN
+F 3 "" H 4850 4150 60  0001 C CNN
+	1    4850 4200
+	-1   0    0    1   
+$EndComp
+$Comp
+L CONN_02X06 J1
+U 1 1 591006B6
+P 6300 4200
+F 0 "J1" H 6300 4550 50  0000 C CNN
+F 1 "CONN_02X06" H 6300 3850 50  0000 C CNN
+F 2 "Pin_Headers:Pin_Header_Straight_2x06_Pitch2.54mm" H 6300 3000 50  0001 C CNN
+F 3 "" H 6300 3000 50  0001 C CNN
+	1    6300 4200
+	1    0    0    -1  
+$EndComp
+Text Label 5300 3800 0    60   ~ 0
+0
+Text Label 4400 3800 0    60   ~ 0
+1
+Text Label 4500 3800 0    60   ~ 0
+2
+Text Label 4600 3800 0    60   ~ 0
+3
+Text Label 4700 3800 0    60   ~ 0
+4
+Text Label 4800 3800 0    60   ~ 0
+5
+Text Label 4900 3800 0    60   ~ 0
+6
+Text Label 5000 3800 0    60   ~ 0
+7
+Text Label 5100 3800 0    60   ~ 0
+8
+Text Label 5200 3800 0    60   ~ 0
+9
+Text Label 4850 4600 0    60   ~ 0
+A
+Text Label 6550 3950 0    60   ~ 0
+A
+Text Label 6050 3950 2    60   ~ 0
+A
+Text Label 6550 4050 0    60   ~ 0
+1
+Text Label 6550 4150 0    60   ~ 0
+2
+Text Label 6550 4250 0    60   ~ 0
+3
+Text Label 6550 4350 0    60   ~ 0
+4
+Text Label 6550 4450 0    60   ~ 0
+5
+Text Label 6050 4450 2    60   ~ 0
+6
+Text Label 6050 4350 2    60   ~ 0
+7
+Text Label 6050 4250 2    60   ~ 0
+8
+Text Label 6050 4150 2    60   ~ 0
+9
+Text Label 6050 4050 2    60   ~ 0
+0
+$EndSCHEMATC

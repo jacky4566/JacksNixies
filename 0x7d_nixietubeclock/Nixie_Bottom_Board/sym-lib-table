@@ -1,3 +1,0 @@
-(sym_lib_table
-  (lib (name nixie_bottom_board-rescue)(type Legacy)(uri ${KIPRJMOD}/nixie_bottom_board-rescue.lib)(options "")(descr ""))
-)
